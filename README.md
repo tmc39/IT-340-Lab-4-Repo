@@ -1,12 +1,6 @@
-# SysAdmin Lab: Automating Tasks and Collaborating with Git
+# IT 340 Lab 4 - Creating a Shell Script and Merge Conflict Resolution
 
-This repository is designed for an introductory Systems Administration lab.
+This repository is designed to be forked by students in order to be pushed to and modified.
 
-## Lab Objectives
-- Create a shell script that logs disk usage.
-- Schedule the script using cron.
-- Collaborate using Git by merging changes and resolving conflicts.
-
-## Folder Structure
-- `scripts/`: Folder for student submissions.
-- `example_disk_report.sh`: Sample shell script for reference.
+For a link to the lab assignment, log into Canvas and click the following link:
+https://njit.instructure.com/courses/55705/assignments/625688

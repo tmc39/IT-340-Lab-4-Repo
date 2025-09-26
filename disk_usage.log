@@ -1,39 +1,13 @@
-Omar's Disk Performance Report - Wed Sep 24 08:00:18 PM EDT 2025:
+Disk Report - Fri Sep 26 10:41:31 AM EDT 2025
 Filesystem      Size  Used Avail Use% Mounted on
-tmpfs           336M  2.1M  334M   1% /run
-/dev/sda2        20G   11G  8.2G  56% /
-tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           261M  1.8M  259M   1% /run
+/dev/sda2        20G  9.2G  9.4G  50% /
+tmpfs           1.3G     0  1.3G   0% /dev/shm
 tmpfs           5.0M  8.0K  5.0M   1% /run/lock
-tmpfs           1.7G   20K  1.7G   1% /tmp
-tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
-tmpfs           336M  112K  336M   1% /run/user/1000
-/dev/sr0        100M  100M     0 100% /media/oaw6/CDROM
-/dev/sr1        5.9G  5.9G     0 100% /media/oaw6/Ubuntu 25.04 amd64
 tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
--------------------------------------eol
-Omar's Disk Performance Report - Wed Sep 24 08:01:58 PM EDT 2025:
-Filesystem      Size  Used Avail Use% Mounted on
-tmpfs           336M  2.1M  334M   1% /run
-/dev/sda2        20G   11G  8.2G  56% /
-tmpfs           1.7G     0  1.7G   0% /dev/shm
-tmpfs           5.0M  8.0K  5.0M   1% /run/lock
-tmpfs           1.7G   20K  1.7G   1% /tmp
 tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
-tmpfs           336M  112K  336M   1% /run/user/1000
-/dev/sr0        100M  100M     0 100% /media/oaw6/CDROM
-/dev/sr1        5.9G  5.9G     0 100% /media/oaw6/Ubuntu 25.04 amd64
-tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
----------------------------------Wed Sep 24 08:01:58 PM EDT 2025
-Omar's Disk Performance Report - Wed Sep 24 08:02:27 PM EDT 2025:
-Filesystem      Size  Used Avail Use% Mounted on
-tmpfs           336M  2.1M  334M   1% /run
-/dev/sda2        20G   11G  8.2G  56% /
-tmpfs           1.7G     0  1.7G   0% /dev/shm
-tmpfs           5.0M  8.0K  5.0M   1% /run/lock
-tmpfs           1.7G   20K  1.7G   1% /tmp
-tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
-tmpfs           336M  112K  336M   1% /run/user/1000
-/dev/sr0        100M  100M     0 100% /media/oaw6/CDROM
-/dev/sr1        5.9G  5.9G     0 100% /media/oaw6/Ubuntu 25.04 amd64
-tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
----------------------------------Wed Sep 24 08:02:27 PM EDT 2025
+tmpfs           1.3G   24K  1.3G   1% /tmp
+tmpfs           261M  116K  261M   1% /run/user/1000
+/dev/sr0        100M  100M     0 100% /media/tim/CDROM
+/dev/sr1        5.9G  5.9G     0 100% /media/tim/Ubuntu 25.04 amd64
+-------------
